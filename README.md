@@ -1,4 +1,4 @@
-Hi. I'm a Software Engineer based in Tokyo, Japan. I recently graduated with a Master's degree in Computer Science (Information Sciences).
+Hi. I'm a Software Engineer based in Tokyo, Japan. I recently graduated with a Master's degree in Computer Science from a University in Japan.
 My previous development work has primarily focused on **Web development** and **AI** technologies (such as NLP and LLM)
 
 ---
