@@ -11,7 +11,7 @@ My previous development work has primarily focused on **Web** and **AI** (e.g. N
 
 This is a web application that allows users to upload and manage cat photos. I integrated LLM to automatically analyze the image and identify the cat breed.
 
-* **Goal:** To solve a real-life need for organizing pet photos with intelligent tagging.
+* **Goal:** To solve a real-life need for organizing pet photos with intelligent classification.
 * **Key Features:** **AI-based classification on cat breeds** from uploaded images, powered by **prompt engineered LLM** calling.
 
 <img width="2277" height="1641" alt="demo" src="https://github.com/user-attachments/assets/aedcee14-9a43-4e5a-b0e6-f06a889ec726" />
